@@ -7,7 +7,7 @@ description: So, who is Yishi Zhang?
 draft: false
 image: pic12.jpg
 keywords: ""
-slug: blog06
+slug: blog6
 title: My biography
 ---
 

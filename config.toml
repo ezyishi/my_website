@@ -37,8 +37,8 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Forty"
-    subtitle = "By HTML5 Up"
+    title = "Yishi Zhang"
+    subtitle = "By Yishi himself"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -52,12 +52,12 @@ disqusShortname = ""
       url = "blogs"
 
     [[params.navigation.links]]
-      name = "Generic Blog"
-      url = "blogs/ipsum"
+      name = "#"
+      url = "#"
 
     [[params.navigation.links]]
-      name = "Elements"
-      url = "elements.html"
+      name = "#"
+      url = "#"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -92,10 +92,10 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "Aliquam"
-      subtitle = "Ipsum Dolor Sit Amet"
-      image = "pic01.jpg"
-      url = "blogs/aliquam"
+      title = "My biography"
+      subtitle = "To be honost, who is Yishi Zhang?"
+      image = "pic13.jpg"
+      url = "blogs/blog6"
 
     [[params.tiles.showcase]]
       title = "Tempus"

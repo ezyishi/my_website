@@ -51,14 +51,6 @@ disqusShortname = ""
       name = "Blogs"
       url = "blogs"
 
-    [[params.navigation.links]]
-      name = "#"
-      url = "#"
-
-    [[params.navigation.links]]
-      name = "#"
-      url = "#"
-
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
     # code below if you need more links. Buttons work in the same way.
@@ -82,7 +74,7 @@ disqusShortname = ""
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "Hi, my name is Yishi"
-    subtitle = "Welcome to my portfolio website."
+    subtitle = "Let's get to know a little more about me."
     buttonText = "Get Started"
 
 
@@ -98,10 +90,10 @@ disqusShortname = ""
       url = "blogs/blog6"
 
     [[params.tiles.showcase]]
-      title = "Tempus"
-      subtitle = "Feugiat Amet Tempus"
-      image = "pic02.jpg"
-      url = "blogs/tempus"
+      title = "My Resume"
+      subtitle = "What have I done so far"
+      image = "resume_background2.jpg"
+      url = "blogs/blog7"
 
     [[params.tiles.showcase]]
       title = "Magna"
@@ -180,9 +172,9 @@ disqusShortname = ""
 
     [[params.contact.address]]
     title = "Address"
-    street = "Street"
-    city = "Magic City"
-    country = "China"
+    street = "London Business School"
+    city = "London"
+    country = "UK"
 
   # Footer section
   [params.footer]

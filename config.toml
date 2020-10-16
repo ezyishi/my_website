@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://yishizhangwow.netlify.app/"
+baseURL = "https://yishizhang.netlify.app/"
 languageCode = "en-us"
 title = "Yishi"
 theme = "forty"
